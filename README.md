@@ -19,4 +19,4 @@ chai and mocha for testing
 
 Server:
 Local server located in the /server folder
-RESTful API for managing character data
+
